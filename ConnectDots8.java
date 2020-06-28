@@ -2,13 +2,10 @@
 /**********************************************************************
 * to connect dots...
 * Author: David C. Dong, Hing Nian Chan
-* id:7595
-* E-mail Address: ddong@sparky.ic.sunysb.edu
-* Project 
-* Date Due: May 8,2001.
-**********************************************************************/import
-javax.swing.*;
-import java.util.*;
+* E-mail Address: daviddonggm@gmail.com
+* **********************************************************************/
+import javax.swing.*;
+import java.util.*; 
 import java.awt.*;
 import java.awt.event.*;
 
