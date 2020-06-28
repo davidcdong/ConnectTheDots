@@ -4,6 +4,7 @@
 * Author: David C. Dong, Hing Nian Chan
 * E-mail Address: daviddonggm@gmail.com
 * **********************************************************************/
+package com.dots;
 import javax.swing.*;
 import java.util.*; 
 import java.awt.*;
